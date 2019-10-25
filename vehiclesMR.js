@@ -15,8 +15,8 @@ class Vehicle {
   }
 
 
-/*
-function createRandomString(numOfLetters) {
+//function uncommented for GIT purposes
+function createRandomStringGIT(numOfLetters) {
     var word = String.fromCharCode(Math.random()*26+65);
 
     for (i=1; i<numOfLetters; i++) {
@@ -25,7 +25,7 @@ function createRandomString(numOfLetters) {
 
     return word;
 }
-*/
+
 
 var listOfVehicles = new Array();
 
