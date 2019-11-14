@@ -26,7 +26,7 @@ function createRandomStringGIT(numOfLetters) {
     return word;
 }
 
-//added a comment
+//added a comment, once more
 
 var listOfVehicles = new Array();
 
